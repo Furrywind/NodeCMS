@@ -8,6 +8,10 @@ An Express.js based backend.
 
 Techstack: Express, MySQL, JWT, bcrypt, @hapi/joi
 
+Database example:
+
+![databaseExample](./doc/img/databaseExample.jpg)
+
 ## Installation
 
 ```
@@ -22,6 +26,8 @@ npm start
 ## Usage
 
 Edit and rename [.env.example](.env.example) to .env before run.
+
+You can import [example.sql](example.sql) to your database for testing.
 
 ## License
 
